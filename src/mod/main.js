@@ -1,24 +1,7 @@
-function $(id) {
-    return window.document.getElementById(id);
-}
+"use strict";
 
-function setLanguage(lang) {
-    require("$").lang(lang);
-    window.location = "index.html";
-}
+var ScrollSnap = require("iceland.scroll-snap");
 
-$("welcome").textContent = _("welcome");
-$("fr").addEventListener(
-    "click",
-    function() {
-        setLanguage("fr");
-    },
-    false
-);
-$("en").addEventListener(
-    "click",
-    function() {
-        setLanguage("en");
-    },
-    false
-);
+exports.start = function() {
+  ScrollSnap();
+};
