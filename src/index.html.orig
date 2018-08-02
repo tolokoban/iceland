@@ -21,6 +21,34 @@
                     <h1>Location voiture</h1>
                     <p>Class F - High - Suzuki Vitara 4x4</p>
 
+<<<<<<< HEAD
+                <h1>Reykjavik city hotel</h1>
+                <ul>
+                    <li>Petit déjeûner compris</li>
+                    <li><em>Address:</em> <b>Sundlaugavegur 34, <br>105 Reykjavík</b></li>
+                    <li><em>EMail:</em> <a href="mailto:reykjavikcity@hostel.is">reykjavikcity@hostel.is</a></li>
+                    <li><em>Phone:</em> <b>+354 553 8110</b>.</li>
+                    <li><a href="https://www.hostel.is/hostels/reykjavik-city-hi-hostel">Site web</a>.</li>
+                </ul>
+            </article>
+        </section>
+        <section>
+            <header>Jeudi 9 - Reykjavik > Vik</header>
+            <article>
+                <h1>Reykjavik > Selfoss (45')</h1>
+                <ul>
+                    <li><a href="https://www.google.com/maps/dir/Reykjavik,+Islande/Selfoss,+Islande/@64.0302556,-21.5482431,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x48d674b9eedcedc3:0xec912ca230d26071!2m2!1d-21.8174392!2d64.1265206!1m5!1m1!1s0x48d65fcb879909cb:0x5c9977c988b43f11!2m2!1d-21.0013832!2d63.9334611!3e0">Trajet</a></li>
+                    <li>Faire des courses pour 5 jours</li>
+                </ul>
+
+                <h1>> Seljalandsfoss (1h)</h1>
+                <ul>
+                    <li>Cascades.</li>
+                    <li><a href="https://www.google.com/maps/dir/63.6155983,-19.9906909/63.935782,-21.003565/@63.7803125,-21.0597525,9z/data=!3m1!4b1">Trajet</a> : après le pont, prendre la 249 vers le nord.</li>
+                </ul>
+
+                <h1>Gljufrafoss (5')</h1>
+=======
                     <h1>Reykjavik city hotel</h1>
                     <ul>
                         <li>Petit déjeûner compris</li>
@@ -34,33 +62,16 @@
             <section>
                 <header>Jeudi 9 - Reykjavik > Vik</header>
                 <article>
-                    <h1>Reykjavik > Selfoss (45')</h1>
-                    <ul>
-                        <li><a href="https://www.google.com/maps/dir/Reykjavik,+Islande/Selfoss,+Islande/@64.0302556,-21.5482431,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x48d674b9eedcedc3:0xec912ca230d26071!2m2!1d-21.8174392!2d64.1265206!1m5!1m1!1s0x48d65fcb879909cb:0x5c9977c988b43f11!2m2!1d-21.0013832!2d63.9334611!3e0">Trajet</a></li>
-                        <li>Faire des courses pour 5 jours</li>
-                    </ul>
-
-                    <h1>Seljalandsfoss (1h)</h1>
-                    <ul>
-                        <li>Cascades : <a href="sat.html?z=10&r=6102-6104&c=5355">vue satellite</a>.</li>
-                        <li><a href="https://www.google.com/maps/dir/63.6155983,-19.9906909/63.935782,-21.003565/@63.7803125,-21.0597525,9z/data=!3m1!4b1">Trajet</a> : après le pont, prendre la 249 vers le nord.</li>
-                    </ul>
-
-                    <h1>Piscine naturelle (Seljavellir)</h1>
-                    <ul>
-                        <li>Reprendre la route 1 (pendant 15 min)<br/>
-Piscine secrète et naturelle de Seljavellir, prendre à gauche la route 242 Raufarfellsvegur  (15 minutes à pied depuis parking fin de la route) <b>63.561110 ; -19.618890</b>.</li>
-                        <li><a href="sat.html?z=10&r=6125-6127&c=5422-5425">vue satellite</a>.</li>
-                    </ul>
-
-                    <h1>Skogafoss</h1>
-Chute d’eau Skogafoss à gauche dans le village de Skogar (15 min après la piscine naturelle)
-
-                    <h1>Dyrholaey</h1>
+Selfoss (à 45 min de Rejkjavik): Faire des courses pour 5 jours<br/>
+Chute de Seljalandsfoss route 249 à gauche après le pont (à 1h de Selfoss)<br/>
+>>>>>>> bad4edccfe7329037653937bef9e2ce980074472
+Continuer au nord la route 249 pour voir la cascade de Gljufrafoss (à 2min de Seljalandsfoss)<br/>
+Dépasser la ferme jusqu’au ruisseau qui s’échappe de la falaise, remonter son cours et pénétrer dans la cavité pour trouver la cascade.<br/>
+Reprendre la route 1 (pendant 15 min)<br/>
+Piscine secrète et naturelle de Seljavellir, prendre à gauche la route 242 Raufarfellsvegur  (15 minutes à pied depuis parking fin de la route) N63°33.664 W19°37.131. Il faut suivre le sentier qui longe la rivière et après 20 minutes de marche vous arriverez à un bassin bétonné accollé à une montagne.<br/>
+Chute d’eau Skogafoss à gauche dans le village de Skogar (15 min après la piscine naturelle)<br/>
 Falaises et point de vue de dyrholaey en prenant la route 218 à droite (dyrholavegur) avant Vik<br/>
 2 accès au point de vue (à droite le phare)<br/>
-
-                    <h1>Vik</h1>
 Supermarché Vik : Kjarval Vík (10h-18h)<br/>
 Vik hostel<br/>
 Vik : fabrique de vêtements typiques islandais en laine<br/>

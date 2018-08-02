@@ -1,0 +1,21 @@
+div.map {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    background-image: url(main/backmap.jpg);
+}
+
+div.map > img {
+    position: absolute;
+    width: 512px;
+    height: 512px;
+    margin: 0;
+    border: none;
+}
+
+div.tfw-view-floating-button.custom {
+    position: fixed;
+    left: 4px;
+    bottom: 4px;
+    z-index: 9;
+}
