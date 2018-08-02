@@ -8,9 +8,21 @@ function precache() {
       './css/font.josefin/josefin.woff2',
       './icon-128.png',
       './icon-512.png',
+      './css/main/tiles/10-5653-5187.jpg',
+      './css/main/tiles/10-5653-5188.jpg',
+      './css/main/tiles/10-5653-5189.jpg',
       './css/main/tiles/10-6102-5355.jpg',
       './css/main/tiles/10-6103-5355.jpg',
-      './css/main/tiles/10-6104-5355.jpg'
+      './css/main/tiles/10-6104-5355.jpg',
+      './css/main/tiles/10-6125-5424.jpg',
+      './css/main/tiles/10-6125-5425.jpg',
+      './css/main/tiles/10-6126-5423.jpg',
+      './css/main/tiles/10-6126-5424.jpg',
+      './css/main/tiles/10-6126-5425.jpg',
+      './css/main/tiles/10-6127-5422.jpg',
+      './css/main/tiles/10-6127-5423.jpg',
+      './css/main/tiles/9-2370-2078.jpg',
+      './css/main/tiles/9-2371-2078.jpg'
     ]);
   });
 }

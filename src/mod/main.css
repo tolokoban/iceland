@@ -42,10 +42,12 @@ body > nav > section > header {
     height: 2rem;
     max-height: 2rem;
     line-height: 2rem;
-    font-weight: bold;
+    font-weight: 300;
+    font-variant: small-caps;
     background: #642;
     color: #fe9;
     padding: 0 1rem;
+    font-size: .9rem;
 }
 
 body > nav > section > article {
