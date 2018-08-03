@@ -9,6 +9,10 @@
     "512": "/icon-512.png"
   },
   "name": "Iceland",
+<<<<<<< HEAD
   "version": "0.0.9",
+=======
+  "version": "0.0.8",
+>>>>>>> 0bfd0c19a89593067c525bcbdbc0d1cb0e28b7f3
   "description": "Voyage en Islande"
 }
