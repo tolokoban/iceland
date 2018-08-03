@@ -1,3 +1,5 @@
+var CACHE = 'iceland-20180803';
+
 function precache() {
   return caches.open(CACHE).then(function (cache) {
     return cache.addAll([
@@ -46,8 +48,6 @@ function update(request) {
   });
 }
 
-
-var CACHE = 'cache-and-update';
 
 self.addEventListener('install', function(evt) {
   console.log('[SW] install.');
