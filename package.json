@@ -11,10 +11,10 @@
     "scripts": {
         "test": "node node_modules/karma/bin/karma start karma.conf.js",
         "test:dbg": "node --debug-brk node_modules/karma/bin/karma start karma.conf.js",
-        "debug": "node node_modules/toloframework/bin/tfw.js build debug test php",
-        "watch": "node node_modules/toloframework/bin/tfw.js build debug test php watch",
-        "clean": "node node_modules/toloframework/bin/tfw.js clean",
-        "release": "node node_modules/toloframework/bin/tfw.js build version php clean"
+        "debug": "node submodules/tfw/bin/tfw.js build debug test php",
+        "watch": "node submodules/tfw/bin/tfw.js build debug test php watch",
+        "clean": "node submodules/tfw/bin/tfw.js clean",
+        "release": "node submodules/tfw/bin/tfw.js build version php clean"
     },
     "bugs": {
         "url": "https://github.com/tolokoban/Iceland/issues"

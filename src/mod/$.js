@@ -1,4 +1,4 @@
-exports.config={"name":"\"Iceland\"","description":"\"Voyage en Islande\"","author":"\"tolokoban\"","version":"\"0.0.8\"","major":"0","minor":"0","revision":"8","date":"2018-08-02T21:10:46.000Z","consts":{}};
+exports.config={"name":"\"Iceland\"","description":"\"Voyage en Islande\"","author":"\"tolokoban\"","version":"\"0.0.8\"","major":"0","minor":"0","revision":"8","date":"2018-08-03T07:57:20.000Z","consts":{}};
 var currentLang = null;
 exports.lang = function(lang) {
     if (lang === undefined) {

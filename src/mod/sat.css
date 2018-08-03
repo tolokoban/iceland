@@ -1,19 +1,44 @@
 div.map {
-    position: relative;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
     margin: 0;
     padding: 0;
     background-image: url(main/backmap.jpg);
+    overflow: hidden;
+    z-index: 8;
+    transition: all .3s;
+    transform: translateX(100%);
 }
 
-div.map > img {
+div.map.show {
+    transition: all .3s;
+    transform: translateX(0);
+}
+
+div.map > nav  {
     position: absolute;
-    width: 512px;
-    height: 512px;
+    margin: 0;
+    padding: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(main/backmap.jpg);
+    overflow: auto;
+}
+
+div.map > nav > img {
+    position: absolute;
+    left: 0;
+    top: 0;
     margin: 0;
     border: none;
 }
 
-div.tfw-view-floating-button.custom {
+div.map > div.tfw-view-floating-button.custom {
     position: fixed;
     left: 4px;
     bottom: 4px;
